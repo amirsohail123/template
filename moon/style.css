@@ -1,0 +1,378 @@
+header{
+	background-color: green;
+	padding-bottom: 50px;
+    padding-top: 17px;
+}
+.location1{
+	font-size: 15px;
+	color: white;
+}
+.loc-icon{
+	font-size: larger;
+	color: #4bc714;
+	padding-bottom: 17px;
+    padding-top: 4px;
+}
+.tele-icon{
+	font-size: larger;
+	color: #4bc714;
+}
+.tele1{
+	font-size: 15px;
+	color: white;
+}
+.email-icon{
+	font-size: larger;
+	color: #4bc714;
+    padding-top: 5px;
+}
+.email1{
+	font-size: 15px;
+	color: white;
+}
+.nav-item{
+	display: flex;
+}
+.bg-light{
+	background-color: black!important;
+	position: absolute;
+	padding-top: 12px;
+	margin-left: 0px;
+	margin-top: -30px;
+	background: #4fac3f;
+	clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 3% 100%);
+}
+.bg-light a{
+	color: white!important;
+}
+.banner{
+	background-image: url(img/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.btext h1{
+color: white;
+font-size: 85px;
+}
+.btext h3{
+	color: #4bc714;
+	font-size: 82px;
+	font-weight: 400;
+    font-variant: common-ligatures;
+    padding-bottom: 20px;
+}
+.btext p{
+	color: white;
+	font-size: 18px;
+	padding-bottom: 8px;
+}
+.buttons{
+padding-bottom: 15px;
+}
+.abt{
+color: white;
+border-color: white;
+border-width: 2px;
+}
+.gaq{
+color: white;
+border-color: white;
+border-width: 2px;
+}
+.quote1 h2{
+font-size: 63px;
+font-weight: 400;
+color: black;
+}
+.quote1 h3{
+color: green;
+font-size: 40px;
+font-weight: 400;
+}
+.quote1 hr{
+ height: 2px;
+ color: black;
+ width: 73%;
+}
+.quote1 p{
+ font-size: 22px;
+ text-align: inherit;
+ font-weight: 400;
+}
+.REM{
+	background-color: #062202;
+    color: white;
+    margin-top: 10px;
+    border-radius: 14px;
+    font-size: 15px;
+    padding:10px 29px 10px 29px;
+}
+.info{
+	background-color: #062202;
+}
+.icons{
+	text-align: center;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+.crop h1{
+	color: green;
+}
+.crop h5{
+	color: white;
+}
+.bull h1{
+	color: green;
+}
+.bull h5{
+	color: white;
+}
+.tub h1{
+	color: green;
+}
+.tub h5{
+	color: white;
+}
+.tractor h1{
+	color: green;
+}
+.tractor h5{
+	color: white;
+}
+.luc{
+	text-align: center;
+	padding-top: 50px;
+}
+.luc h2{
+color: black;
+}
+.luc h3{
+	color: green;
+}
+.luc hr{
+    margin-inline: 620px;
+    height: 2px;
+    color: black;
+}
+.offers-sec{
+	background-color: #062202;
+}
+.heading1{
+	color: white;
+	text-align: center;
+}
+.heading2{
+	color: white;
+	text-align: center;
+	padding-top: 80px;
+}
+.heading3{
+	color: white;
+	text-align: center;
+	padding-top: 160px;
+}
+.agr-button{
+	text-align: left;
+}
+.offers{
+	padding-top: 85px;
+    padding-bottom: 25px
+}
+.prt{
+	text-align: center;
+	padding-top: 50px;
+}
+.prt h2{
+color: black;
+font-size: 60px;
+}
+.prt h3{
+	color: green;
+	font-size: 60px;
+}
+.prt hr{
+ 	margin-inline: 478px;
+    height: 2px;
+    color: black;
+}
+.w h4{
+	padding-bottom: 20px;
+}
+.w p{
+	padding-top: 30px;
+}
+.prdts{
+ margin-bottom: 15px;
+}
+.apple{
+	background-image: url("img/product_img1.jpg");
+	background-position: center;
+	background-size: cover;
+	padding :220px 0 0 0; 
+}
+.apple h4{
+	text-align: center;
+    background-color: #256325bf;
+    color: whitesmoke;
+}
+.aalu{
+	background-image: url("img/product_img2.jpg");
+	background-position: center;
+	background-size: cover;
+	padding :220px 0 0 0;
+}
+.aalu h4{
+   text-align: center;
+   background-color: #256325bf;
+   color: whitesmoke;	
+}
+
+.Vegetables{
+	background-image: url("img/product_img3.jpg");
+	background-position: center;
+	background-size: cover;
+	padding :220px 0 0 0;
+}
+.Vegetables h4{
+   text-align: center;
+   background-color: #256325bf;
+   color: whitesmoke;
+}
+.rice{
+	background-image: url("img/product_img4.jpg");
+	background-position: center;
+	background-size: cover;
+	padding :220px 0 0 0;
+}
+.rice h4{
+   text-align: center;
+   background-color: #256325bf;
+   color: whitesmoke;
+}
+.wheat{
+	background-image: url("img/product_img4.jpg");
+	background-position: center;
+	background-size: cover;
+	padding :220px 0 0 0;
+}
+.wheat h4{
+   text-align: center;
+   background-color: #256325bf;
+   color: whitesmoke;
+}
+.Testimonial{
+	text-align: center;
+	padding-top: 50px;
+}
+.Testimonial hr{
+    margin-inline: 478px;
+    height: 2px;
+    color: black;
+}
+.test1 img{
+	border: 8px solid;
+    color: chartreuse;
+}
+.test1 {
+    padding-left: 155px;
+    padding-top: 30px;
+}
+.test2 {
+    padding-top: 80px;
+    padding-right: ;
+}
+.test2 p {
+    background-color: green;
+    padding: 25px 40px 25px 40px;
+    font-size: 14px;
+}
+.nopad{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.test2 h3,h5{
+	padding-left: 30px;
+}
+.test2 h5{
+	padding-bottom: 30px;
+	color: green;
+}
+.test2 p{
+	color: white;
+	font-size: 14px;
+}
+.poly{
+	padding-top: 106px;
+    margin-left: 162px;
+    background: #3cec1e;
+    clip-path: polygon(0% 0%, 100% 0%, 200% 100%, 100% 46%);
+}
+.git{
+	text-align: center;
+}
+.git span{
+	color: green;
+}
+.git hr{
+	margin-inline: 566px;
+    height: 2px;
+    color: black;
+}
+.footer{
+ background-color: #062202;
+ color: whitesmoke;
+}
+.h3-quick span{
+	border-bottom: 2px solid limegreen;
+    padding-bottom: 5px;
+}
+.ql{
+    padding-top: 19px;
+    padding-left: 15px;
+}
+.foot-cont p{
+ padding-top: 28px;
+}
+.su{
+	margin-top: 12px;
+}
+.h3-email span{
+	border-bottom: 2px solid limegreen;
+    padding-bottom: 5px;
+}
+.h3-cont span{
+	border-bottom: 2px solid limegreen;
+    padding-bottom: 5px;
+}
+.foot-add i,label{
+	padding-top: 10px;
+}
+.foot-logo p{
+ padding-top: 2px;
+ padding-left: 12px;
+}
+.footer2{
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.footer-end{
+	text-align: center;
+	color: white;
+	background-color: green;
+	padding-top: 40px;
+    padding-bottom: 5px;
+}
+.polygon{
+	padding-top: 106px;
+    margin-left: 162px;
+    background: #4fac3f;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 98% 100%);
+}
+.d-flex {
+    display: flex!important;
+    margin-left: 350px;
+}
+.banner{
+ padding-top: 52px;
+}
